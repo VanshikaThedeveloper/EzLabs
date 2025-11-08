@@ -2,10 +2,10 @@ import React from "react";
 import film from "../assets/film.png";
 import underline from "../assets/underline.svg";
 import nextarrow from "../assets/nextarrow.png";
-import cameraicon1 from "../assets/cameraicon1.svg";
-import cameraicon2 from "../assets/cameraicon2.svg";
-import cameraicon3 from "../assets/cameraicon3.svg";
-import cameraicon4 from "../assets/cameraicon4.svg";
+import cameraicon1 from "../assets/Cameraicon1.svg";
+import cameraicon2 from "../assets/Cameraicon2.svg";
+import cameraicon3 from "../assets/Cameraicon3.svg";
+import cameraicon4 from "../assets/Cameraicon4.svg";
 import { useNavigate } from "react-router-dom";
 
 

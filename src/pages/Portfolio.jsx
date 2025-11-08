@@ -3,7 +3,7 @@ import video from "../assets/video.png";
 import desgin2 from "../assets/design2.png";
 import paperButton from "../assets/paperButton.png";
 import arrow from "../assets/parrow.png";
-import cam from "../assets/camera.svg";
+import cam from "../assets/Camera.svg";
 
 const Portfolio = () => {
   return (

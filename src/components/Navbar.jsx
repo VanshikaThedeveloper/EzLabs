@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import logo from "../assets/logo.png";
 import navicon from "../assets/Navicon.png";
-import navicon2 from "../assets/open.svg";
+import navicon2 from "../assets/Open.svg";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);

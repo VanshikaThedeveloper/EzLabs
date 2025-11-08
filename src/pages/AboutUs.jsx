@@ -1,9 +1,9 @@
 import React from "react";
 import circle from "../assets/circle.png";
 import mount from "../assets/mount.png";
-import frame1 from "../assets/frame1.png";
-import frame2 from "../assets/frame2.png";
-import frame3 from "../assets/frame3.png";
+import frame1 from "../assets/Frame1.png";
+import frame2 from "../assets/Frame2.png";
+import frame3 from "../assets/Frame3.png";
 
 const AboutUs = () => {
   return (
