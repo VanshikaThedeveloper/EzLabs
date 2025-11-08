@@ -65,18 +65,18 @@ const Hero = () => {
       <AboutUs />
 
 
-      {/* <Services /> */}
+      <Services />
 
 
-      {/* <Portfolio />
+      <Portfolio />
 
       <FilmProduction />
 
       <Branding />
 
-      <ArtCuration /> */}
+      <ArtCuration />
 
-      {/* <Contact /> */}
+      <Contact />
     </div>
   );
 };
